@@ -11,8 +11,8 @@
         <dependent_override>false</dependent_override>
         <display_override>false</display_override>
         <element>state</element>
-        <mandatory>false</mandatory>
-        <mandatory_override>false</mandatory_override>
+        <mandatory>true</mandatory>
+        <mandatory_override>true</mandatory_override>
         <name>x_58872_needit_needit</name>
         <read_only>false</read_only>
         <read_only_override>false</read_only_override>

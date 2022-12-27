@@ -32,6 +32,22 @@
             <dependent_value/>
             <element>state</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Withdrawn</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-15 00:57:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Awaiting Approval</label>
             <language>en</language>
@@ -91,22 +107,6 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <value>3</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Withdrawn</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>5</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-15 00:57:41</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <value>8</value>
         </sys_choice>
     </sys_choice>
 </record_update>
